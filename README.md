@@ -12,3 +12,5 @@ master
 branch dev 
 
 bug-001
+
+bug-002
